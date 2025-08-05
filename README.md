@@ -1,12 +1,12 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá 👋 Tudo bem?</h1>
 
 ###
 
-<p align="left">My name is Dimitri Marin Gomes and I'm a estudante, from Análise e desenvolvimento de sistemas</p>
+<p align="left">Meu nome é Dimitri Marin Gomes e sou estudante, de Análise e desenvolvimento de sistemas</p>
 
 ###
 
-<h2 align="left">🎯 Goals</h2>
+<h2 align="left">🎯 Metas</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">📚 I'm currently learning</h2>
+<h2 align="left">📚  estou aprendendo atualmente</h2>
 
 ###
 
